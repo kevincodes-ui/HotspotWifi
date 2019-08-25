@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HotspotWifi</string>
+    <string name="settings">Settings</string>
+    <string-array name="security_protocol_array">
+        <item>Open</item>
+        <item>WPA2 PSK</item>
+    </string-array>
 </resources>
